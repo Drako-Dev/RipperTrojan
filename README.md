@@ -65,8 +65,8 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
  <h2 align="center">💰 Donate</h2>
  ajude o projeto a permanecer ativo e ajude o desenvolvedor<br>
   
-```
+ ```
   BTC: 0x8CAb794d439e05732B521262871e65f6c362e8B1
   ETH: 0x8CAb794d439e05732B521262871e65f6c362e8B1
   PIX: Coming soon
-
+ ```
