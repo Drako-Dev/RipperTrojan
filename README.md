@@ -17,19 +17,19 @@
   
   
 
-- [x] 1. send <file name> --> send files to target computer.
-- [x] 2. get <file name> --> download files from the target's computer.
-- [x] 3. screen --> show the target screen.
-- [x] 4. cam --> show the target cam.
-- [x] 5. stop st --> stop, screen and cam.
-- [x] 6. clear --> clear the console.
-- [x] 7. mic --> listen to the audio from the target's microphone.
-- [x] 8. open link <link> --> opens a link in the target's browser.
-- [x] 9. clear log --> clear the log file.
-- [x] 10. terminate --> close the connection.
-- [x] 11. startup <file name> --> add a file at startup.
-- [x] 12. keyborad type <text> --> type a text on the target's computer keyboard.
-- [x] 13. rhelp --> show this message.
+- [x] send <file name> --> send files to target computer.
+- [x] get <file name> --> download files from the target's computer.
+- [x] screen --> show the target screen.
+- [x] cam --> show the target cam.
+- [x] stop st --> stop, screen and cam.
+- [x] clear --> clear the console.
+- [x] mic --> listen to the audio from the target's microphone.
+- [x] open link <link> --> opens a link in the target's browser.
+- [x] clear log --> clear the log file.
+- [x] terminate --> close the connection.
+- [x] startup <file name> --> add a file at startup.
+- [x] keyborad type <text> --> type a text on the target's computer keyboard.
+- [x] rhelp --> show this message.
 </center>
 
 <h2 align="center">🖥 Install</h2>
@@ -63,8 +63,9 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
 
  
  <h2 align="center">💰 Donate</h2>
- 
- Chave **Pix** para quem quiser contribuir e ajudar o painel a se manter ativo:
+ ajude o projeto a permanecer ativo e ajude o desenvolvedor
  ```
-  228463d7-0bec-44bd-bddd-a780d9530f27
+  BTC: 0x8CAb794d439e05732B521262871e65f6c362e8B1
+  ETH: 0x8CAb794d439e05732B521262871e65f6c362e8B1
+  PIX: Coming soon
  ```
