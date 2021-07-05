@@ -34,11 +34,8 @@
 
 <h2 align="center">🖥 Install</h2>
 
-Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
-Iremos avisar aqui quando cada ferramentas for atualizada!
-Para você executar o **Kiny-Painel** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
 
-Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretamente do github com os seguintes comandos:
+to install trojan ripper you will first install the requirements to run the code on your machine, first install python at https://www.python.org/, after that run the dependencies.bat file and follow the steps below:
 
 ```
 💻 Termux
