@@ -51,7 +51,7 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
 
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
-  <img alt="Kiny-Painel" src="https://github.com/oporadokrl/Kiny-Painel/blob/master/screenshot.png">
+  <img alt="" src="https://uploaddeimagens.com.br/imagens/ryRMfuA">
 </p>
 
 <h2 align="center">🙏  Credits</h2>
