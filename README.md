@@ -2,9 +2,7 @@
   Ripper Trojan a complete trojan written in python with multifunctionality, useful and easy-to-use commands.
   #
   <h2 align="center">🔧  Commands</h2>
-
-Todos os que estão marcados já se encontram presente no **Kiny-Painel** funcionando. 
-Os que não estão, é porque ainda estão em desenvolvimento.
+  
 - [X] send <file name> --> send files to target computer.
 - [X] get <file name> --> download files from the target's computer.
 - [X] screen --> show the target screen.
