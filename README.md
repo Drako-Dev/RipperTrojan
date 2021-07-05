@@ -16,18 +16,20 @@
 <center>
   
   
-- [x] Consulta de CEP
-- [x] Consulta de CNPJ
-- [x] Consulta de CRM
-- [x] Consulta de CNS
-- [x] Consulta de CPF
-- [x] Consulta de BIN
-- [ ] Consulta de Nome
-- [ ] Consulta de Nome da mãe
-- [ ] Consulta de Número
-- [ ] Consulta de Email
-- [x] Consulta de Placa
-- [x] Geolocalizador de IP
+
+- [x] 1. send <file name> --> send files to target computer.
+- [x] 2. get <file name> --> download files from the target's computer.
+- [x] 3. screen --> show the target screen.
+- [x] 4. cam --> show the target cam.
+- [x] 5. stop st --> stop, screen and cam.
+- [x] 6. clear --> clear the console.
+- [x] 7. mic --> listen to the audio from the target's microphone.
+- [x] 8. open link <link> --> opens a link in the target's browser.
+- [x] 9. clear log --> clear the log file.
+- [x] 10. terminate --> close the connection.
+- [x] 11. startup <file name> --> add a file at startup.
+- [x] 12. keyborad type <text> --> type a text on the target's computer keyboard.
+- [x] 13. rhelp --> show this message.
 </center>
 
 <h2 align="center">🖥 Install</h2>
