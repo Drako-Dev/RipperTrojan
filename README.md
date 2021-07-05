@@ -6,7 +6,7 @@
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Dr4k0D3v/RipperTrojan" alt="Latest version">
 
   <p align="center">
-    Este painel de consulta tem o objetivo de retornar dados pessoais através do Nome, Número ou CPF. De forma que não precise pagar por isso.
+    Ripper trojan is a tool under development and constant updating, it aims to be a simple to use tool with many commands and easy to use features.
   </p>
 </p> 
 
