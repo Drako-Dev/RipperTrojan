@@ -12,11 +12,8 @@
 
 <h3><p align="center">Version: 1.9 Beta</p></h3>
  
-<h2 align="center">📆  Features</h2>
-
-Todos os que estão marcados já se encontram presente no **Kiny-Painel** funcionando. 
-Os que não estão, é porque ainda estão em desenvolvimento.
-
+<h2 align="center">🔧  Commands</h2>
+<center>
 - [x] Consulta de CEP
 - [x] Consulta de CNPJ
 - [x] Consulta de CRM
@@ -29,7 +26,7 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 - [ ] Consulta de Email
 - [x] Consulta de Placa
 - [x] Geolocalizador de IP
-
+</center>
 
 <h2 align="center">🖥 Install</h2>
 
