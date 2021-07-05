@@ -13,11 +13,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Features</a> •
+  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Commands</a> •
   <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-install">Install & Run</a> •
   <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-credits">Credits</a> •
-  <a href="https://github.com/Kiny-Kiny">Author</a>
+  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-credits">Doante</a> •
+  <a href="https://github.com/Dr4K0D3v">Author</a>
 </p>
 
 <h3><p align="center">Version: 3.9 Beta</p></h3>
