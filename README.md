@@ -51,7 +51,7 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
 
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
-  <img alt="" src="https://uploaddeimagens.com.br/imagens/ryRMfuA">
+  <img alt="" src="https://uploaddeimagens.com.br/images/003/320/455/original/Screenshot_1.png?1625454484">
 </p>
 
 <h2 align="center">🙏  Credits</h2>
