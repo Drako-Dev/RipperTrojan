@@ -63,7 +63,8 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
 
  
  <h2 align="center">💰 Donate</h2>
- ajude o projeto a permanecer ativo e ajude o desenvolvedor:<br>
+ 
+- help the project stay active:
   
  ```
   
