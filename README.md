@@ -4,7 +4,7 @@
 
 <p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">Ripper Trojan 1.9</h1>
+<h1 align="center">Ripper Trojan</h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
@@ -13,6 +13,13 @@
     
   </p>
 </p> 
+<p align="center">
+  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Features</a> •
+  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-install">Install & Run</a> •
+  <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
+  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-credits">Credits</a> •
+  <a href="https://github.com/Kiny-Kiny">Author</a>
+</p>
 
   <h2 align="center">🔧  Commands</h2>
   
