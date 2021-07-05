@@ -2,7 +2,7 @@
   Ripper Trojan a complete trojan written in python with multifunctionality, useful and easy-to-use commands.
   #
   Commands:
-  
+  <p>
    ✔️ send <file name> --> send files to target computer
    ✔️ get <file name> --> download files from the target's computer
    ✔️ screen --> show the target screen
@@ -16,3 +16,4 @@
    ✔️ startup <file name> --> add a file at startup
    ✔️ keyborad type <text> --> type a text on the target's computer keyboard
    ✔️ rhelp --> show this message
+</p>
