@@ -56,13 +56,10 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
 
 <h2 align="center">🙏  Credits</h2>
 
-| Autor          | Ajuda                                      |
-| -------------- |:-------------:|
-| P0isonBR       | Consulta de CPF/Atualização Automática     |
-| Snuking        | Algumas ajudas no próprio script           |
-| Douglas/Josuke | Patrocinador                               |
-| Margarina      | Patrocinador                               |
-| N 3 X 0        | Patrocinador/Consulta de CPF               |
+| author         |  contribution                              |
+| -------------- |:-------------:                             |
+| __Drako__      | everything                                 |
+
 
  
  <h2 align="center">💰 Donate</h2>
