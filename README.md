@@ -38,32 +38,15 @@
 to install trojan ripper you will first install the requirements to run the code on your machine, first install python at https://www.python.org/, after that run the dependencies.bat file and follow the steps below:
 
 ```
-💻 Termux
-$ pkg upgrade && pkg update -y
-$ pkg install git python figlet -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+💻 Windows
+$ start dependencies.bat
+$ python3 rippercontrol.py
+$ python3 server.py
 
-💻 Debian
-$ apt upgrade && apt update -y
-$ apt install git python figlet -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
-
-💻Arch Linux
-$ pacman -Syyu git python figlet -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
-
-
-💻OpenSUSE
-$ zypper install python git figlet -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+💻 Compile
+$ pip3 install pyinstaller
+$ pyinstaller --noconfirm --onefile --windowed server.py
+  
 ```
 
 <p align="center" >
