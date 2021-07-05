@@ -68,4 +68,6 @@ $ pyinstaller --noconfirm --onefile --windowed server.py
   BTC: 0x8CAb794d439e05732B521262871e65f6c362e8B1
   ETH: 0x8CAb794d439e05732B521262871e65f6c362e8B1
   PIX: Coming soon
- ```
+  
+```
+
