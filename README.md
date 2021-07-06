@@ -29,6 +29,8 @@
 - [x] terminate --> close the connection.
 - [x] startup <file name> --> add a file at startup.
 - [x] keyborad type <text> --> type a text on the target's computer keyboard.
+- [x] keyboard control --> controls target keyboard.
+- [x] quit --> ends the program.
 - [x] rhelp --> show this message.
 </center>
 
