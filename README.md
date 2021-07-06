@@ -1,6 +1,6 @@
 <p align="center" ><img alt="" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">Ripper Trojan</h1>
+<h1 align="center">Ripper</h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Dr4k0D3v/RipperTrojan">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Dr4k0D3v/RipperTrojan" alt="Latest version">
