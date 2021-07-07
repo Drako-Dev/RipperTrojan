@@ -1,12 +1,12 @@
 <p align="center" ><img alt="" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">Ripper</h1>
+<h1 align="center">Ripper Trojan</h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Dr4k0D3v/Ripper">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Dr4k0D3v/Ripper" alt="Latest version">
 
   <p align="center">
-    Ripper is a tool under development and constant updating, it aims to be a simple to use tool with many commands and easy to use features.
+    Ripper Trojan is a tool under development and constant updating, it aims to be a simple to use tool with many commands and easy to use features.
   </p>
 </p> 
 
@@ -37,7 +37,7 @@
 <h2 align="center">🖥 Install</h2>
 
 
-to install ripper you will first install the requirements to run the code on your machine, first install python at https://www.python.org/, after that run the dependencies.bat file and follow the steps below:
+to install ripper trojan you will first install the requirements to run the code on your machine, first install python at https://www.python.org/, after that run the dependencies.bat file and follow the steps below:
 
 ```
 💻 Windows
