@@ -10,7 +10,7 @@
   </p>
 </p> 
 
-<h3><p align="center">Version: 1.9 Beta</p></h3>
+<h3><p align="center">Version: 2.0</p></h3>
  
 <h2 align="center">🔧  Commands</h2>
 <center>
