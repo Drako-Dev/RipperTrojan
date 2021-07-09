@@ -42,7 +42,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               `b  `       '  d'
                                `             '
 
-                Ripper Trojan v1.9 | By: __Drako__ | © 2021
+                Ripper Trojan v2.0 | By: __Drako__ | © 2021
                  
         ''';
 
